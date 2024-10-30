@@ -1,0 +1,1383 @@
+************************************* Invoked: Mon Oct 14 11:55:10 2024
+[0] Arguments: D:\Desktop\Software Projects\GAME_SnakeLadder\enc_Qt\qt-online-installer-windows-x64-4.8.1.exe
+[101] Operations sanity check succeeded.
+[195] Using metadata cache from "C:/Users/Carlos/AppData/Local/cache\\qt-unified-windows-online"
+[195] Found 0 cached items.
+[195] Reading Qt Account settings from disk: "C:/Users/Carlos/AppData/Roaming/Qt/qtaccount.ini"
+[196] Warning: Qt Account settings file [C:\\Users\\Carlos\\AppData\\Roaming\\Qt\\qtaccount.ini] does not exist.
+[196] Warning: Could not find Qt Account.
+[196] QtAccount information:
+[196] Login completed: false
+[196] Email: ""
+[196] Total number of licenses: 0
+[196] Account type: 3
+[197] Language: es-MX
+[136981] Warning: Qt Account sign-up failed: "carlos25155@gmail.com"
+[456823] cancelInstallation : Qt pregunta : ¿Desea salir de la aplicación del instalador? Yes|No
+[483064] Warning: No se han encontrado las credenciales de QtAccount. Por favor, inicie sesión a través de la herramienta de mantenimiento del SDK.
+[484002] Login completed to Qt Account: "carlos25155@gmail.com"
+[484963] Warning: No licenses found. Continuing open source installation.
+[484966] Saving licenses to file: "C:/Users/Carlos/AppData/Roaming/Qt/qtlicenses.ini"
+[484969] Saving Qt Account settings to file: "C:/Users/Carlos/AppData/Roaming/Qt/qtaccount.ini"
+[486187] "Las condiciones de instalación son correctas, se puede proceder a la instalación." [ "success" ]
+[520905] Obteniendo la información de la última actualización...
+[520985] Downloading 112 items to cache.
+[520985] Recuperando información de repositorios remotos...
+[526677] Recuperando información de metadatos del repositorio remoto...
+[529787] Extrayendo la información de metadatos...
+[541436] Actualizando caché local con 112 elementos nuevos...
+[546302] Cargando scripts de componentes...
+[715730] Component not found qt.qt6.680.qtquick3d
+[715739] Component not found qt.qt6.680.qtshadertools
+[812377] Component not found qt.qt6.680.qtquick3d
+[812386] Component not found qt.qt6.680.qtshadertools
+[824969] Component not found qt.qt6.680.qtquick3d
+[824980] Component not found qt.qt6.680.qtshadertools
+[830131] Component not found qt.qt6.680.qtquick3d
+[830142] Component not found qt.qt6.680.qtshadertools
+[833596] Component not found qt.qt6.680.qtquick3d
+[833608] Component not found qt.qt6.680.qtshadertools
+[834517] Component not found qt.qt6.680.qtquick3d
+[834530] Component not found qt.qt6.680.qtshadertools
+[837705] Component not found qt.qt6.680.qtquick3d
+[837716] Component not found qt.qt6.680.qtshadertools
+[838663] Component not found qt.qt6.680.qtquick3d
+[838674] Component not found qt.qt6.680.qtshadertools
+[839492] Component not found qt.qt6.680.qtquick3d
+[839503] Component not found qt.qt6.680.qtshadertools
+[841065] Component not found qt.qt6.680.qtquick3d
+[841078] Component not found qt.qt6.680.qtshadertools
+[841708] Component not found qt.qt6.680.qtquick3d
+[841719] Component not found qt.qt6.680.qtshadertools
+[848816] Component not found qt.qt6.680.qtquick3d
+[848832] Component not found qt.qt6.680.qtshadertools
+[849678] Component not found qt.qt6.680.qtquick3d
+[849690] Component not found qt.qt6.680.qtshadertools
+[898495] Component not found qt.qt6.680.qtquick3d
+[898508] Component not found qt.qt6.680.qtshadertools
+[939802] Component not found qt.qt6.680.qtquick3d
+[939810] Component not found qt.qt6.680.qtshadertools
+[963612] Componentes seleccionados sin dependencias:
+qtdesignstudio 
+qt 
+qtcreator 
+qt.qt6.680.addons 
+qt.tools.maintenance 
+Componentes agregados como dependencia para "qt.tools.qtdesignstudio":
+qt.tools.vcredist_msvc2019_x64 
+Componentes agregados como dependencia para "qt.license.gplv3except":
+qt.license.acceptance 
+Componentes agregados como dependencia para "qt.tools.qtdesignstudio":
+qt.license.gplv3except 
+Componentes que tienen dependencias resueltas:
+qt.tools.qtdesignstudio 
+Componentes agregados como dependencia para "qt.tools":
+qt.license.thirdparty 
+qt.license.lgpl 
+Componentes agregados como dependencia para "qt.qt6.680.doc":
+qt.tools 
+Componentes agregados como dependencia para "qt.qt6.680":
+qt.qt6.680.doc 
+qt.qt6.680.examples 
+Componentes agregados como dependencia para "qt.tools.qtcreator":
+qt.tools.vcredist_msvc2019_x86 
+qt.tools.vcredist 
+qt.tools.vcredist_64 
+Componentes agregados como dependencia para "qt.qt6.680":
+qt.tools.qtcreator 
+Componentes que tienen dependencias resueltas:
+qt.qt6.680 
+Componentes agregados como dependencia para "qt.qt6.680.win64_mingw":
+qt.tools.win64_mingw1310 
+Componentes que tienen dependencias resueltas:
+qt.qt6.680.win64_mingw 
+Componentes agregados como dependencia para "qt.qt6.680.addons.qtcharts":
+qt.qt6.680.doc.qtcharts 
+qt.qt6.680.examples.qtcharts 
+Componentes que tienen dependencias resueltas:
+qt.qt6.680.addons.qtcharts 
+Componentes agregados como dependencia para "qt.qt6.680.addons.qtmultimedia":
+qt.qt6.680.doc.qtmultimedia 
+qt.qt6.680.examples.qtmultimedia 
+Componentes que tienen dependencias resueltas:
+qt.qt6.680.addons.qtmultimedia 
+qt.tools.cmake 
+qt.tools.ninja 
+qt.tools.qtcreator_gui 
+Componentes agregados como dependencia para "qt.tools.qtcreatorcdbext":
+qt.license.python 
+Componentes que tienen dependencias resueltas:
+qt.tools.qtcreatorcdbext 
+Componentes agregados como dependencia para "qt.tools.windows_kits_debuggers":
+qt.license.win10sdk 
+Componentes que tienen dependencias resueltas:
+qt.tools.windows_kits_debuggers 
+Componentes agregados como dependencias automáticas:
+qt.tools.qtcreator_gui.telemetry 
+qt.qt6.680.addons.qtmultimedia.win64_mingw 
+qt.qt6.680.addons.qtcharts.win64_mingw
+[963614] Installation space required: "5.36 GB" Temporary space required: "1.50 GB" Local repository size: "0.00 bytes"
+[963616] Cache is on a different volume than the installation directory. Cache volume mount point: "C:\\" Free space available: "211.02 GB" Install volume mount point: "D:\\" Free space available: "289.54 GB"
+[966076] Saving uuid for: "carlos25155@gmail.com"
+[966077] Updating resource file: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/update.rcc
+[966078] perform  operation: Mkdir
+[966078] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder
+[966079] Done
+[966079] backup  operation: Mkdir
+[966079] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[966080] Done
+[966080] perform  operation: Mkdir
+[966080] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[966080] Done
+[966080] Preparando la instalación...
+[966080] Install size: 37 components
+[966096] Starting elevated process "D:\\Desktop\\Software Projects\\GAME_SnakeLadder\\enc_Qt\\qt-online-installer-windows-x64-4.8.1.exe" with arguments " --start-server PRODUCTION,{141b042c-d111-498a-80c6-06c41dbb7383},{92412560-ea39-48aa-a7b3-10a7165800dc}"
+[966996] Finished starting elevated process.
+[967969] Descargando paquetes...
+[967969] Descargando el archivo "4.8.1-202409230636tqtc-installer-framework-Windows-Windows_11_22H2-MSVC2022-Windows-Windows_11_22H2-X86_64-QtInstaller.7z.sha1" para el componente Qt Maintenance Tool.
+[969015] Descargando el archivo "4.8.1-202409230636tqtc-installer-framework-Windows-Windows_11_22H2-MSVC2022-Windows-Windows_11_22H2-X86_64-QtInstaller.7z" para el componente Qt Maintenance Tool.
+[973340] Descargando el archivo "4.8.1-202409230636installer-changelog.7z.sha1" para el componente Qt Maintenance Tool.
+[974438] Descargando el archivo "4.8.1-202409230636installer-changelog.7z" para el componente Qt Maintenance Tool.
+[975563] Descargando el archivo "4.8.1-202409230636installer-resource.7z.sha1" para el componente Qt Maintenance Tool.
+[976649] Descargando el archivo "4.8.1-202409230636installer-resource.7z" para el componente Qt Maintenance Tool.
+[978156] Descargando el archivo "2022-06-07vcredist_msvc2019_x64.7z.sha1" para el componente VCRedist for MSVC 2019 64bit.
+[979224] Descargando el archivo "2022-06-07vcredist_msvc2019_x64.7z" para el componente VCRedist for MSVC 2019 64bit.
+[983500] Descargando el archivo "4.6.1-0-202410021209designstudio_base.7z.sha1" para el componente Qt Design Studio 4.6.1.
+[984594] Descargando el archivo "4.6.1-0-202410021209designstudio_base.7z" para el componente Qt Design Studio 4.6.1.
+[988838] Descargando el archivo "4.6.1-0-202410021209docs.7z.sha1" para el componente Qt Design Studio 4.6.1.
+[989936] Descargando el archivo "4.6.1-0-202410021209docs.7z" para el componente Qt Design Studio 4.6.1.
+[998939] Descargando el archivo "4.6.1-0-202410021209effect_bundle.7z.sha1" para el componente Qt Design Studio 4.6.1.
+[1000148] Descargando el archivo "4.6.1-0-202410021209effect_bundle.7z" para el componente Qt Design Studio 4.6.1.
+[1002180] Descargando el archivo "4.6.1-0-202410021209qdb.7z.sha1" para el componente Qt Design Studio 4.6.1.
+[1003259] Descargando el archivo "4.6.1-0-202410021209qdb.7z" para el componente Qt Design Studio 4.6.1.
+[1005845] Descargando el archivo "4.6.1-0-202410021209qt6_design_studio_reduced_version.7z.sha1" para el componente Qt Design Studio 4.6.1.
+[1006942] Descargando el archivo "4.6.1-0-202410021209qt6_design_studio_reduced_version.7z" para el componente Qt Design Studio 4.6.1.
+[1054649] Descargando el archivo "4.6.1-0-202410021209qt6_qmlpuppet.7z.sha1" para el componente Qt Design Studio 4.6.1.
+[1055745] Descargando el archivo "4.6.1-0-202410021209qt6_qmlpuppet.7z" para el componente Qt Design Studio 4.6.1.
+[1058341] Descargando el archivo "4.6.1-0-202410021209qtcreator.7z.sha1" para el componente Qt Design Studio 4.6.1.
+[1059456] Descargando el archivo "4.6.1-0-202410021209qtcreator.7z" para el componente Qt Design Studio 4.6.1.
+[1068122] Descargando el archivo "4.6.1-0-202410021209qtcreator_sdktool.7z.sha1" para el componente Qt Design Studio 4.6.1.
+[1069297] Descargando el archivo "4.6.1-0-202410021209qtcreator_sdktool.7z" para el componente Qt Design Studio 4.6.1.
+[1072155] Descargando el archivo "4.6.1-0-202410021209content.7z.sha1" para el componente Qt Design Studio 4.6.1.
+[1073248] Descargando el archivo "4.6.1-0-202410021209content.7z" para el componente Qt Design Studio 4.6.1.
+[1074386] Descargando el archivo "1.0.0-1Licenses.7z.sha1" para el componente Qt 3rd Party Licenses.
+[1075468] Descargando el archivo "1.0.0-1Licenses.7z" para el componente Qt 3rd Party Licenses.
+[1077080] Descargando el archivo "6.8.0-0-202410030750qt5-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1078175] Descargando el archivo "6.8.0-0-202410030750qt5-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1080057] Descargando el archivo "6.8.0-0-202410030750qdoc-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1081361] Descargando el archivo "6.8.0-0-202410030750qdoc-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1083300] Descargando el archivo "6.8.0-0-202410030750qmake-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1084396] Descargando el archivo "6.8.0-0-202410030750qmake-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1086206] Descargando el archivo "6.8.0-0-202410030750qtassistant-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1087261] Descargando el archivo "6.8.0-0-202410030750qtassistant-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1089259] Descargando el archivo "6.8.0-0-202410030750qtconcurrent-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1090328] Descargando el archivo "6.8.0-0-202410030750qtconcurrent-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1092048] Descargando el archivo "6.8.0-0-202410030750qtcmake-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1093126] Descargando el archivo "6.8.0-0-202410030750qtcmake-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1094793] Descargando el archivo "6.8.0-0-202410030750qtcore-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1095955] Descargando el archivo "6.8.0-0-202410030750qtcore-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1098840] Descargando el archivo "6.8.0-0-202410030750qtdbus-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1099892] Descargando el archivo "6.8.0-0-202410030750qtdbus-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1101799] Descargando el archivo "6.8.0-0-202410030750qtdesigner-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1102916] Descargando el archivo "6.8.0-0-202410030750qtdesigner-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1105285] Descargando el archivo "6.8.0-0-202410030750qtdistancefieldgenerator-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1106359] Descargando el archivo "6.8.0-0-202410030750qtdistancefieldgenerator-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1108010] Descargando el archivo "6.8.0-0-202410030750qtdoc-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1109101] Descargando el archivo "6.8.0-0-202410030750qtdoc-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1112902] Descargando el archivo "6.8.0-0-202410030750qtgui-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1114018] Descargando el archivo "6.8.0-0-202410030750qtgui-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1117346] Descargando el archivo "6.8.0-0-202410030750qthelp-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1118733] Descargando el archivo "6.8.0-0-202410030750qthelp-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1120561] Descargando el archivo "6.8.0-0-202410030750qtlabsplatform-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1121678] Descargando el archivo "6.8.0-0-202410030750qtlabsplatform-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1123756] Descargando el archivo "6.8.0-0-202410030750qtlinguist-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1124835] Descargando el archivo "6.8.0-0-202410030750qtlinguist-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1127308] Descargando el archivo "6.8.0-0-202410030750qtnetwork-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1128428] Descargando el archivo "6.8.0-0-202410030750qtnetwork-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1130617] Descargando el archivo "6.8.0-0-202410030750qtopengl-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1131721] Descargando el archivo "6.8.0-0-202410030750qtopengl-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1133948] Descargando el archivo "6.8.0-0-202410030750qtplatformintegration-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1135081] Descargando el archivo "6.8.0-0-202410030750qtplatformintegration-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1136930] Descargando el archivo "6.8.0-0-202410030750qtprintsupport-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1138028] Descargando el archivo "6.8.0-0-202410030750qtprintsupport-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1139909] Descargando el archivo "6.8.0-0-202410030750qtqml-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1141024] Descargando el archivo "6.8.0-0-202410030750qtqml-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1143098] Descargando el archivo "6.8.0-0-202410030750qtqmlcore-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1144181] Descargando el archivo "6.8.0-0-202410030750qtqmlcore-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1145905] Descargando el archivo "6.8.0-0-202410030750qtqmlmodels-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1146962] Descargando el archivo "6.8.0-0-202410030750qtqmlmodels-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1148748] Descargando el archivo "6.8.0-0-202410030750qtqmltest-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1149867] Descargando el archivo "6.8.0-0-202410030750qtqmltest-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1151630] Descargando el archivo "6.8.0-0-202410030750qtqmlworkerscript-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1152707] Descargando el archivo "6.8.0-0-202410030750qtqmlworkerscript-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1154332] Descargando el archivo "6.8.0-0-202410030750qtqmlxmllistmodel-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1155473] Descargando el archivo "6.8.0-0-202410030750qtqmlxmllistmodel-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1157066] Descargando el archivo "6.8.0-0-202410030750qtquick-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1158174] Descargando el archivo "6.8.0-0-202410030750qtquick-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1163112] Descargando el archivo "6.8.0-0-202410030750qtquickcontrols-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1164244] Descargando el archivo "6.8.0-0-202410030750qtquickcontrols-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1167040] Descargando el archivo "6.8.0-0-202410030750qtquickdialogs-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1168107] Descargando el archivo "6.8.0-0-202410030750qtquickdialogs-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1170065] Descargando el archivo "6.8.0-0-202410030750qtsql-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1171120] Descargando el archivo "6.8.0-0-202410030750qtsql-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1173087] Descargando el archivo "6.8.0-0-202410030750qtsvg-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1174207] Descargando el archivo "6.8.0-0-202410030750qtsvg-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1175864] Descargando el archivo "6.8.0-0-202410030750qttestlib-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1176955] Descargando el archivo "6.8.0-0-202410030750qttestlib-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1178965] Descargando el archivo "6.8.0-0-202410030750qtuitools-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1180027] Descargando el archivo "6.8.0-0-202410030750qtuitools-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1181899] Descargando el archivo "6.8.0-0-202410030750qtwidgets-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1182966] Descargando el archivo "6.8.0-0-202410030750qtwidgets-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1187075] Descargando el archivo "6.8.0-0-202410030750qtxml-documentation.zip.sha1" para el componente Qt 6.8.0 Documentation.
+[1188186] Descargando el archivo "6.8.0-0-202410030750qtxml-documentation.zip" para el componente Qt 6.8.0 Documentation.
+[1194017] Descargando el archivo "6.8.0-0-202410030750qtbase-examples-6.8.0.7z.sha1" para el componente Qt 6.8.0 Examples.
+[1195119] Descargando el archivo "6.8.0-0-202410030750qtbase-examples-6.8.0.7z" para el componente Qt 6.8.0 Examples.
+[1198713] Descargando el archivo "6.8.0-0-202410030750qtdeclarative-examples-6.8.0.7z.sha1" para el componente Qt 6.8.0 Examples.
+[1199977] Descargando el archivo "6.8.0-0-202410030750qtdeclarative-examples-6.8.0.7z" para el componente Qt 6.8.0 Examples.
+[1203178] Descargando el archivo "6.8.0-0-202410030750qtdoc-examples-6.8.0.7z.sha1" para el componente Qt 6.8.0 Examples.
+[1204270] Descargando el archivo "6.8.0-0-202410030750qtdoc-examples-6.8.0.7z" para el componente Qt 6.8.0 Examples.
+[1210451] Descargando el archivo "6.8.0-0-202410030750qtsvg-examples-6.8.0.7z.sha1" para el componente Qt 6.8.0 Examples.
+[1211543] Descargando el archivo "6.8.0-0-202410030750qtsvg-examples-6.8.0.7z" para el componente Qt 6.8.0 Examples.
+[1212608] Descargando el archivo "6.8.0-0-202410030750qttools-examples-6.8.0.7z.sha1" para el componente Qt 6.8.0 Examples.
+[1213789] Descargando el archivo "6.8.0-0-202410030750qttools-examples-6.8.0.7z" para el componente Qt 6.8.0 Examples.
+[1215938] Descargando el archivo "2022-06-07vcredist_msvc2019_x86.7z.sha1" para el componente VCRedist for MSVC 2019 32bit.
+[1217010] Descargando el archivo "2022-06-07vcredist_msvc2019_x86.7z" para el componente VCRedist for MSVC 2019 32bit.
+[1220352] Descargando el archivo "2022-06-07vcredist_x86.7z.sha1" para el componente VCRedist for MSVC 32bit.
+[1221462] Descargando el archivo "2022-06-07vcredist_x86.7z" para el componente VCRedist for MSVC 32bit.
+[1224287] Descargando el archivo "2022-06-07vcredist_x64.7z.sha1" para el componente VCRedist for MSVC 64bit.
+[1225388] Descargando el archivo "2022-06-07vcredist_x64.7z" para el componente VCRedist for MSVC 64bit.
+[1228905] Descargando el archivo "14.0.2-0-202409270342qtcreator_sdktool.7z.sha1" para el componente SDKTool.
+[1229636] Descargando el archivo "14.0.2-0-202409270342qtcreator_sdktool.7z" para el componente SDKTool.
+[1231338] Descargando el archivo "6.8.0-0-202410030750sha1s.txt.7z.sha1" para el componente Qt 6.8.0.
+[1232382] Descargando el archivo "6.8.0-0-202410030750sha1s.txt.7z" para el componente Qt 6.8.0.
+[1233457] Descargando el archivo "13.1.0-202407240918mingw1310.7z.sha1" para el componente MinGW 13.1.0 64-bit.
+[1234491] Descargando el archivo "13.1.0-202407240918mingw1310.7z" para el componente MinGW 13.1.0 64-bit.
+[1248524] Descargando el archivo "6.8.0-0-202410030750qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1" para el componente MinGW 13.1.0 64-bit.
+[1249628] Descargando el archivo "6.8.0-0-202410030750qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z" para el componente MinGW 13.1.0 64-bit.
+[1253853] Descargando el archivo "6.8.0-0-202410030750qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1" para el componente MinGW 13.1.0 64-bit.
+[1254909] Descargando el archivo "6.8.0-0-202410030750qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z" para el componente MinGW 13.1.0 64-bit.
+[1257115] Descargando el archivo "6.8.0-0-202410030750qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1" para el componente MinGW 13.1.0 64-bit.
+[1258163] Descargando el archivo "6.8.0-0-202410030750qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z" para el componente MinGW 13.1.0 64-bit.
+[1272287] Descargando el archivo "6.8.0-0-202410030750qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1" para el componente MinGW 13.1.0 64-bit.
+[1274183] Descargando el archivo "6.8.0-0-202410030750qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z" para el componente MinGW 13.1.0 64-bit.
+[1279613] Descargando el archivo "6.8.0-0-202410030750qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1" para el componente MinGW 13.1.0 64-bit.
+[1280739] Descargando el archivo "6.8.0-0-202410030750qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z" para el componente MinGW 13.1.0 64-bit.
+[1282886] Descargando el archivo "6.8.0-0-202410030750MinGW-w64-x86_64-13.1.0-release-posix-seh-msvcrt-rt_v11-rev1-runtime.7z.sha1" para el componente MinGW 13.1.0 64-bit.
+[1283924] Descargando el archivo "6.8.0-0-202410030750MinGW-w64-x86_64-13.1.0-release-posix-seh-msvcrt-rt_v11-rev1-runtime.7z" para el componente MinGW 13.1.0 64-bit.
+[1286172] Descargando el archivo "6.8.0-0-202410030750d3dcompiler_47-x64.7z.sha1" para el componente MinGW 13.1.0 64-bit.
+[1287235] Descargando el archivo "6.8.0-0-202410030750d3dcompiler_47-x64.7z" para el componente MinGW 13.1.0 64-bit.
+[1289272] Descargando el archivo "6.8.0-0-202410030750opengl32sw-64-mesa_11_2_2-signed_sha256.7z.sha1" para el componente MinGW 13.1.0 64-bit.
+[1290346] Descargando el archivo "6.8.0-0-202410030750opengl32sw-64-mesa_11_2_2-signed_sha256.7z" para el componente MinGW 13.1.0 64-bit.
+[1292819] Descargando el archivo "6.8.0-0-202410030750qtcharts-documentation.zip.sha1" para el componente Documentation for Qt 6.8.0 GPLv3 components (QtCharts).
+[1293864] Descargando el archivo "6.8.0-0-202410030750qtcharts-documentation.zip" para el componente Documentation for Qt 6.8.0 GPLv3 components (QtCharts).
+[1297173] Descargando el archivo "6.8.0-0-202410030750qtcharts-examples-6.8.0.7z.sha1" para el componente Examples for Qt 6.8.0 GPLv3 components (QtCharts).
+[1298231] Descargando el archivo "6.8.0-0-202410030750qtcharts-examples-6.8.0.7z" para el componente Examples for Qt 6.8.0 GPLv3 components (QtCharts).
+[1299931] Descargando el archivo "6.8.0-0-202410030750qtmultimedia-documentation.zip.sha1" para el componente Documentation for Qt Multimedia.
+[1301046] Descargando el archivo "6.8.0-0-202410030750qtmultimedia-documentation.zip" para el componente Documentation for Qt Multimedia.
+[1303650] Descargando el archivo "6.8.0-0-202410030750qtspatialaudio-documentation.zip.sha1" para el componente Documentation for Qt Multimedia.
+[1304692] Descargando el archivo "6.8.0-0-202410030750qtspatialaudio-documentation.zip" para el componente Documentation for Qt Multimedia.
+[1307884] Descargando el archivo "6.8.0-0-202410030750qtmultimedia-examples-6.8.0.7z.sha1" para el componente Examples for Qt Multimedia.
+[1308961] Descargando el archivo "6.8.0-0-202410030750qtmultimedia-examples-6.8.0.7z" para el componente Examples for Qt Multimedia.
+[1311020] Descargando el archivo "3.29.3-202405151154windows64_x64_cmake_tools.7z.sha1" para el componente CMake 3.29.3.
+[1312057] Descargando el archivo "3.29.3-202405151154windows64_x64_cmake_tools.7z" para el componente CMake 3.29.3.
+[1316904] Descargando el archivo "1.12.0-202405151040ninja_win64.7z.sha1" para el componente Ninja 1.12.0.
+[1317932] Descargando el archivo "1.12.0-202405151040ninja_win64.7z" para el componente Ninja 1.12.0.
+[1319633] Descargando el archivo "14.0.2-0-202409270455qtcreator.7z.sha1" para el componente Qt Creator 14.0.2.
+[1320731] Descargando el archivo "14.0.2-0-202409270455qtcreator.7z" para el componente Qt Creator 14.0.2.
+[1336421] Descargando el archivo "14.0.2-0-202409270455wininterrupt64.7z.sha1" para el componente Qt Creator 14.0.2.
+[1337575] Descargando el archivo "14.0.2-0-202409270455wininterrupt64.7z" para el componente Qt Creator 14.0.2.
+[1339137] Descargando el archivo "14.0.2-0-202409270455jom.7z.sha1" para el componente Qt Creator 14.0.2.
+[1340241] Descargando el archivo "14.0.2-0-202409270455jom.7z" para el componente Qt Creator 14.0.2.
+[1342264] Descargando el archivo "14.0.2-0-202409270455qtcreatorcdbext64.7z.sha1" para el componente CDB Debugger Support.
+[1343361] Descargando el archivo "14.0.2-0-202409270455qtcreatorcdbext64.7z" para el componente CDB Debugger Support.
+[1350479] Descargando el archivo "2024-02-26-0-202409270455X64_Debuggers_And_Tools-x64_en-us-10.0.22621.755.7z.sha1" para el componente Debugging Tools for Windows.
+[1351633] Descargando el archivo "2024-02-26-0-202409270455X64_Debuggers_And_Tools-x64_en-us-10.0.22621.755.7z" para el componente Debugging Tools for Windows.
+[1357492] Descargando el archivo "2024-02-26-0-202409270455x86_Debuggers_And_Tools-x86_en-us-10.0.22621.755.7z.sha1" para el componente Debugging Tools for Windows.
+[1358566] Descargando el archivo "2024-02-26-0-202409270455x86_Debuggers_And_Tools-x86_en-us-10.0.22621.755.7z" para el componente Debugging Tools for Windows.
+[1363924] Descargando el archivo "14.0.2-0-202409270453telemetry.7z.sha1" para el componente Qt Telemetry plugin.
+[1365006] Descargando el archivo "14.0.2-0-202409270453telemetry.7z" para el componente Qt Telemetry plugin.
+[1366949] Descargando el archivo "6.8.0-0-202410030750qtmultimedia-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1" para el componente Qt Multimedia for MinGW 13.1.0 64-bit.
+[1368060] Descargando el archivo "6.8.0-0-202410030750qtmultimedia-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z" para el componente Qt Multimedia for MinGW 13.1.0 64-bit.
+[1373309] Descargando el archivo "6.8.0-0-202410030750qtcharts-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1" para el componente Qt Charts for MinGW 13.1.0 64-bit.
+[1374389] Descargando el archivo "6.8.0-0-202410030750qtcharts-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z" para el componente Qt Charts for MinGW 13.1.0 64-bit.
+[1388962] Qt Creator settings do not exist at old location, not moving.
+[1390934] Creating qt.conf files for: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64
+[1390934] Writing qt.conf file to: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qt.conf
+[1395216] Preparándose para desempaquetar componentes...
+[1395618] backup qt.tools.maintenance concurrent operation: Extract
+[1395618] 	- arguments: installer://qt.tools.maintenance/4.8.1-202409230636installer-changelog.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395618] Started
+[1395618] backup qt.tools.maintenance concurrent operation: Extract
+[1395618] 	- arguments: installer://qt.tools.maintenance/4.8.1-202409230636installer-resource.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395618] Started
+[1395618] backup qt.tools.maintenance concurrent operation: Extract
+[1395618] 	- arguments: installer://qt.tools.maintenance/4.8.1-202409230636tqtc-installer-framework-Windows-Windows_11_22H2-MSVC2022-Windows-Windows_11_22H2-X86_64-QtInstaller.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395618] Started
+[1395618] backup qt.tools.vcredist_msvc2019_x64 concurrent operation: Extract
+[1395618] 	- arguments: installer://qt.tools.vcredist_msvc2019_x64/2022-06-07vcredist_msvc2019_x64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395618] Started
+[1395618] backup qt.tools.qtdesignstudio concurrent operation: Extract
+[1395618] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209content.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395618] Started
+[1395618] backup qt.tools.qtdesignstudio concurrent operation: Extract
+[1395618] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209designstudio_base.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395618] Started
+[1395618] backup qt.tools.qtdesignstudio concurrent operation: Extract
+[1395618] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209docs.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395618] Started
+[1395619] backup qt.tools.qtdesignstudio concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209effect_bundle.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.tools.qtdesignstudio concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qdb.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.tools.qtdesignstudio concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qt6_design_studio_reduced_version.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.tools.qtdesignstudio concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qt6_qmlpuppet.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.tools.qtdesignstudio concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qtcreator.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.tools.qtdesignstudio concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qtcreator_sdktool.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.license.thirdparty concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.license.thirdparty/1.0.0-1Licenses.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.qt6.680.doc concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qdoc-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.qt6.680.doc concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qmake-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.qt6.680.doc concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qt5-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.qt6.680.doc concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtassistant-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.qt6.680.doc concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtcmake-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.qt6.680.doc concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtconcurrent-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.qt6.680.doc concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtcore-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.qt6.680.doc concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtdbus-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395619] backup qt.qt6.680.doc concurrent operation: Extract
+[1395619] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtdesigner-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395619] Started
+[1395722] backup qt.qt6.680.doc concurrent operation: Extract
+[1395722] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtdistancefieldgenerator-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395722] Started
+[1395726] backup qt.qt6.680.doc concurrent operation: Extract
+[1395726] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtdoc-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395726] Started
+[1395892] backup qt.qt6.680.doc concurrent operation: Extract
+[1395892] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtgui-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1395892] Started
+[1396119] backup qt.qt6.680.doc concurrent operation: Extract
+[1396119] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qthelp-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396119] Started
+[1396124] backup qt.qt6.680.doc concurrent operation: Extract
+[1396124] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtlabsplatform-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396124] Started
+[1396131] backup qt.qt6.680.doc concurrent operation: Extract
+[1396131] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtlinguist-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396131] Started
+[1396538] backup qt.qt6.680.doc concurrent operation: Extract
+[1396538] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtnetwork-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396538] Started
+[1396551] backup qt.qt6.680.doc concurrent operation: Extract
+[1396551] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtopengl-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396551] Started
+[1396560] backup qt.qt6.680.doc concurrent operation: Extract
+[1396560] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtplatformintegration-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396560] Started
+[1396565] backup qt.qt6.680.doc concurrent operation: Extract
+[1396565] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtprintsupport-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396565] Started
+[1396569] backup qt.qt6.680.doc concurrent operation: Extract
+[1396569] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqml-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396569] Started
+[1396628] backup qt.qt6.680.doc concurrent operation: Extract
+[1396628] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmlcore-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396628] Started
+[1396632] backup qt.qt6.680.doc concurrent operation: Extract
+[1396632] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmlmodels-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396632] Started
+[1396635] backup qt.qt6.680.doc concurrent operation: Extract
+[1396635] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmltest-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396635] Started
+[1396639] backup qt.qt6.680.doc concurrent operation: Extract
+[1396639] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmlworkerscript-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396639] Started
+[1396643] backup qt.qt6.680.doc concurrent operation: Extract
+[1396643] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmlxmllistmodel-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396643] Started
+[1396647] backup qt.qt6.680.doc concurrent operation: Extract
+[1396647] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtquick-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396647] Started
+[1396963] backup qt.qt6.680.doc concurrent operation: Extract
+[1396963] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtquickcontrols-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1396963] Started
+[1397117] backup qt.qt6.680.doc concurrent operation: Extract
+[1397117] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtquickdialogs-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397117] Started
+[1397122] backup qt.qt6.680.doc concurrent operation: Extract
+[1397122] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtsql-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397122] Started
+[1397231] backup qt.qt6.680.doc concurrent operation: Extract
+[1397231] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtsvg-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397231] Started
+[1397244] backup qt.qt6.680.doc concurrent operation: Extract
+[1397244] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qttestlib-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397244] Started
+[1397265] backup qt.qt6.680.doc concurrent operation: Extract
+[1397265] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtuitools-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397265] Started
+[1397279] backup qt.qt6.680.doc concurrent operation: Extract
+[1397279] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtwidgets-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397279] Started
+[1397297] backup qt.qt6.680.doc concurrent operation: Extract
+[1397297] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtxml-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397297] Started
+[1397303] backup qt.qt6.680.examples concurrent operation: Extract
+[1397303] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qtbase-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397303] Started
+[1397396] backup qt.qt6.680.examples concurrent operation: Extract
+[1397396] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qtdeclarative-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397396] Started
+[1397499] backup qt.qt6.680.examples concurrent operation: Extract
+[1397499] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qtdoc-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397499] Started
+[1397551] backup qt.qt6.680.examples concurrent operation: Extract
+[1397551] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qtsvg-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397551] Started
+[1397554] backup qt.qt6.680.examples concurrent operation: Extract
+[1397554] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qttools-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397554] Started
+[1397563] backup qt.tools.vcredist_msvc2019_x86 concurrent operation: Extract
+[1397563] 	- arguments: installer://qt.tools.vcredist_msvc2019_x86/2022-06-07vcredist_msvc2019_x86.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397563] Started
+[1397568] backup qt.tools.vcredist concurrent operation: Extract
+[1397568] 	- arguments: installer://qt.tools.vcredist/2022-06-07vcredist_x86.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397568] Started
+[1397572] backup qt.tools.vcredist_64 concurrent operation: Extract
+[1397572] 	- arguments: installer://qt.tools.vcredist_64/2022-06-07vcredist_x64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397572] Started
+[1397577] backup qt.tools.qtcreator concurrent operation: Extract
+[1397577] 	- arguments: installer://qt.tools.qtcreator/14.0.2-0-202409270342qtcreator_sdktool.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397577] Started
+[1397582] backup qt.qt6.680 concurrent operation: Extract
+[1397582] 	- arguments: installer://qt.qt6.680/6.8.0-0-202410030750sha1s.txt.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397583] Started
+[1397601] backup qt.tools.win64_mingw1310 concurrent operation: Extract
+[1397601] 	- arguments: installer://qt.tools.win64_mingw1310/13.1.0-202407240918mingw1310.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397601] Started
+[1397992] backup qt.qt6.680.win64_mingw concurrent operation: Extract
+[1397992] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750d3dcompiler_47-x64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397992] Started
+[1397997] backup qt.qt6.680.win64_mingw concurrent operation: Extract
+[1397997] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750MinGW-w64-x86_64-13.1.0-release-posix-seh-msvcrt-rt_v11-rev1-runtime.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1397997] Started
+[1398001] backup qt.qt6.680.win64_mingw concurrent operation: Extract
+[1398001] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750opengl32sw-64-mesa_11_2_2-signed_sha256.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398001] Started
+[1398007] backup qt.qt6.680.win64_mingw concurrent operation: Extract
+[1398007] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398007] Started
+[1398179] backup qt.qt6.680.win64_mingw concurrent operation: Extract
+[1398179] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398179] Started
+[1398197] backup qt.qt6.680.win64_mingw concurrent operation: Extract
+[1398197] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398197] Started
+[1398204] backup qt.qt6.680.win64_mingw concurrent operation: Extract
+[1398204] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398204] Started
+[1398229] backup qt.qt6.680.win64_mingw concurrent operation: Extract
+[1398229] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398229] Started
+[1398245] backup qt.qt6.680.doc.qtcharts concurrent operation: Extract
+[1398245] 	- arguments: installer://qt.qt6.680.doc.qtcharts/6.8.0-0-202410030750qtcharts-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398245] Started
+[1398340] backup qt.qt6.680.examples.qtcharts concurrent operation: Extract
+[1398340] 	- arguments: installer://qt.qt6.680.examples.qtcharts/6.8.0-0-202410030750qtcharts-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398340] Started
+[1398350] backup qt.qt6.680.doc.qtmultimedia concurrent operation: Extract
+[1398350] 	- arguments: installer://qt.qt6.680.doc.qtmultimedia/6.8.0-0-202410030750qtmultimedia-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398350] Started
+[1398464] backup qt.qt6.680.doc.qtmultimedia concurrent operation: Extract
+[1398464] 	- arguments: installer://qt.qt6.680.doc.qtmultimedia/6.8.0-0-202410030750qtspatialaudio-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398464] Started
+[1398471] backup qt.qt6.680.examples.qtmultimedia concurrent operation: Extract
+[1398471] 	- arguments: installer://qt.qt6.680.examples.qtmultimedia/6.8.0-0-202410030750qtmultimedia-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398471] Started
+[1398490] backup qt.tools.cmake concurrent operation: Extract
+[1398490] 	- arguments: installer://qt.tools.cmake/3.29.3-202405151154windows64_x64_cmake_tools.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398490] Started
+[1398627] backup qt.tools.ninja concurrent operation: Extract
+[1398627] 	- arguments: installer://qt.tools.ninja/1.12.0-202405151040ninja_win64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398627] Started
+[1398633] backup qt.tools.qtcreator_gui concurrent operation: Extract
+[1398633] 	- arguments: installer://qt.tools.qtcreator_gui/14.0.2-0-202409270455jom.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398633] Started
+[1398638] backup qt.tools.qtcreator_gui concurrent operation: Extract
+[1398638] 	- arguments: installer://qt.tools.qtcreator_gui/14.0.2-0-202409270455qtcreator.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398638] Started
+[1398694] backup qt.tools.qtcreator_gui concurrent operation: Extract
+[1398694] 	- arguments: installer://qt.tools.qtcreator_gui/14.0.2-0-202409270455wininterrupt64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398694] Started
+[1398697] backup qt.tools.qtcreatorcdbext concurrent operation: Extract
+[1398697] 	- arguments: installer://qt.tools.qtcreatorcdbext/14.0.2-0-202409270455qtcreatorcdbext64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398697] Started
+[1398703] backup qt.tools.windows_kits_debuggers concurrent operation: Extract
+[1398703] 	- arguments: installer://qt.tools.windows_kits_debuggers/2024-02-26-0-202409270455X64_Debuggers_And_Tools-x64_en-us-10.0.22621.755.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398703] Started
+[1398708] backup qt.tools.windows_kits_debuggers concurrent operation: Extract
+[1398708] 	- arguments: installer://qt.tools.windows_kits_debuggers/2024-02-26-0-202409270455x86_Debuggers_And_Tools-x86_en-us-10.0.22621.755.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398708] Started
+[1398810] backup qt.tools.qtcreator_gui.telemetry concurrent operation: Extract
+[1398810] 	- arguments: installer://qt.tools.qtcreator_gui.telemetry/14.0.2-0-202409270453telemetry.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398810] Started
+[1398815] backup qt.qt6.680.addons.qtmultimedia.win64_mingw concurrent operation: Extract
+[1398815] 	- arguments: installer://qt.qt6.680.addons.qtmultimedia.win64_mingw/6.8.0-0-202410030750qtmultimedia-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398815] Started
+[1398845] backup qt.qt6.680.addons.qtcharts.win64_mingw concurrent operation: Extract
+[1398845] 	- arguments: installer://qt.qt6.680.addons.qtcharts.win64_mingw/6.8.0-0-202410030750qtcharts-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1398845] Started
+[1399003] Desempaquetando componentes...
+[1399004] perform qt.tools.qtdesignstudio concurrent operation: Extract
+[1399004] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qt6_design_studio_reduced_version.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1399004] Started
+[1399005] perform qt.tools.qtcreator_gui concurrent operation: Extract
+[1399005] 	- arguments: installer://qt.tools.qtcreator_gui/14.0.2-0-202409270455qtcreator.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1399005] Started
+[1399005] perform qt.tools.win64_mingw1310 concurrent operation: Extract
+[1399005] 	- arguments: installer://qt.tools.win64_mingw1310/13.1.0-202407240918mingw1310.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1399005] Started
+[1399006] perform qt.qt6.680.win64_mingw concurrent operation: Extract
+[1399006] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1399006] Started
+[1580404] perform qt.tools.qtdesignstudio concurrent operation: Extract
+[1580404] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209docs.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1580404] Started
+[1630752] perform qt.tools.qtdesignstudio concurrent operation: Extract
+[1630752] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qtcreator.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1630752] Started
+[1652563] perform qt.qt6.680.examples concurrent operation: Extract
+[1652563] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qtdoc-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1652563] Started
+[1670889] perform qt.tools.windows_kits_debuggers concurrent operation: Extract
+[1670889] 	- arguments: installer://qt.tools.windows_kits_debuggers/2024-02-26-0-202409270455X64_Debuggers_And_Tools-x64_en-us-10.0.22621.755.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1670889] Started
+[1696374] perform qt.tools.windows_kits_debuggers concurrent operation: Extract
+[1696374] 	- arguments: installer://qt.tools.windows_kits_debuggers/2024-02-26-0-202409270455x86_Debuggers_And_Tools-x86_en-us-10.0.22621.755.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1696374] Started
+[1711715] perform qt.tools.qtcreatorcdbext concurrent operation: Extract
+[1711715] 	- arguments: installer://qt.tools.qtcreatorcdbext/14.0.2-0-202409270455qtcreatorcdbext64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1711715] Started
+[1720826] perform qt.tools.cmake concurrent operation: Extract
+[1720826] 	- arguments: installer://qt.tools.cmake/3.29.3-202405151154windows64_x64_cmake_tools.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1720826] Started
+[1721084] perform qt.qt6.680.doc concurrent operation: Extract
+[1721084] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtquick-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1721084] Started
+[1750713] perform qt.qt6.680.win64_mingw concurrent operation: Extract
+[1750713] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1750713] Started
+[1751039] perform qt.qt6.680.win64_mingw concurrent operation: Extract
+[1751039] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1751039] Started
+[1784110] perform qt.tools.qtdesignstudio concurrent operation: Extract
+[1784110] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209designstudio_base.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1784110] Started
+[1819317] perform qt.qt6.680.doc concurrent operation: Extract
+[1819317] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtwidgets-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1819317] Started
+[1822785] perform qt.qt6.680.addons.qtmultimedia.win64_mingw concurrent operation: Extract
+[1822785] 	- arguments: installer://qt.qt6.680.addons.qtmultimedia.win64_mingw/6.8.0-0-202410030750qtmultimedia-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1822785] Started
+[1835806] perform qt.tools.maintenance concurrent operation: Extract
+[1835806] 	- arguments: installer://qt.tools.maintenance/4.8.1-202409230636tqtc-installer-framework-Windows-Windows_11_22H2-MSVC2022-Windows-Windows_11_22H2-X86_64-QtInstaller.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1835806] Started
+[1844042] perform qt.qt6.680.doc concurrent operation: Extract
+[1844042] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtdoc-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1844042] Started
+[1854216] perform qt.tools.vcredist_msvc2019_x64 concurrent operation: Extract
+[1854216] 	- arguments: installer://qt.tools.vcredist_msvc2019_x64/2022-06-07vcredist_msvc2019_x64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1854216] Started
+[1859343] perform qt.tools.vcredist_msvc2019_x86 concurrent operation: Extract
+[1859343] 	- arguments: installer://qt.tools.vcredist_msvc2019_x86/2022-06-07vcredist_msvc2019_x86.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1859343] Started
+[1861274] perform qt.qt6.680.examples concurrent operation: Extract
+[1861274] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qtdeclarative-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1861274] Started
+[1865480] perform qt.tools.vcredist_64 concurrent operation: Extract
+[1865480] 	- arguments: installer://qt.tools.vcredist_64/2022-06-07vcredist_x64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1865480] Started
+[1865604] perform qt.qt6.680.doc.qtcharts concurrent operation: Extract
+[1865604] 	- arguments: installer://qt.qt6.680.doc.qtcharts/6.8.0-0-202410030750qtcharts-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1865604] Started
+[1870424] perform qt.qt6.680.doc concurrent operation: Extract
+[1870424] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtcore-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1870424] Started
+[1874576] perform qt.tools.vcredist concurrent operation: Extract
+[1874576] 	- arguments: installer://qt.tools.vcredist/2022-06-07vcredist_x86.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1874576] Started
+[1878705] perform qt.qt6.680.doc concurrent operation: Extract
+[1878705] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtgui-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1878705] Started
+[1881053] perform qt.qt6.680.doc concurrent operation: Extract
+[1881053] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtquickcontrols-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1881053] Started
+[1887061] perform qt.qt6.680.doc.qtmultimedia concurrent operation: Extract
+[1887061] 	- arguments: installer://qt.qt6.680.doc.qtmultimedia/6.8.0-0-202410030750qtmultimedia-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1887061] Started
+[1890834] perform qt.tools.qtdesignstudio concurrent operation: Extract
+[1890834] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qdb.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1890834] Started
+[1891454] perform qt.qt6.680.win64_mingw concurrent operation: Extract
+[1891454] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750opengl32sw-64-mesa_11_2_2-signed_sha256.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1891454] Started
+[1894977] perform qt.qt6.680.examples concurrent operation: Extract
+[1894977] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qtbase-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1894977] Started
+[1896646] perform qt.qt6.680.doc concurrent operation: Extract
+[1896646] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtdesigner-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1896646] Started
+[1903154] perform qt.qt6.680.doc concurrent operation: Extract
+[1903154] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqml-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1903154] Started
+[1904081] perform qt.qt6.680.doc concurrent operation: Extract
+[1904081] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtnetwork-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1904081] Started
+[1907945] perform qt.qt6.680.win64_mingw concurrent operation: Extract
+[1907945] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1907945] Started
+[1908088] perform qt.qt6.680.examples.qtmultimedia concurrent operation: Extract
+[1908088] 	- arguments: installer://qt.qt6.680.examples.qtmultimedia/6.8.0-0-202410030750qtmultimedia-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1908088] Started
+[1917856] perform qt.qt6.680.doc concurrent operation: Extract
+[1917856] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtlinguist-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1917856] Started
+[1919309] perform qt.tools.qtdesignstudio concurrent operation: Extract
+[1919309] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209effect_bundle.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1919309] Started
+[1919857] perform qt.qt6.680.win64_mingw concurrent operation: Extract
+[1919857] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750d3dcompiler_47-x64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1919857] Started
+[1920480] perform qt.tools.qtdesignstudio concurrent operation: Extract
+[1920480] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qtcreator_sdktool.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1920480] Started
+[1921379] perform qt.tools.qtcreator_gui concurrent operation: Extract
+[1921379] 	- arguments: installer://qt.tools.qtcreator_gui/14.0.2-0-202409270455jom.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1921379] Started
+[1921380] perform qt.qt6.680.doc concurrent operation: Extract
+[1921380] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtopengl-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1921380] Started
+[1922401] perform qt.tools.qtcreator concurrent operation: Extract
+[1922402] 	- arguments: installer://qt.tools.qtcreator/14.0.2-0-202409270342qtcreator_sdktool.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1922402] Started
+[1922454] perform qt.qt6.680.doc concurrent operation: Extract
+[1922454] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtsql-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1922454] Started
+[1923300] perform qt.tools.qtdesignstudio concurrent operation: Extract
+[1923300] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209qt6_qmlpuppet.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1923300] Started
+[1923345] perform qt.qt6.680.addons.qtcharts.win64_mingw concurrent operation: Extract
+[1923345] 	- arguments: installer://qt.qt6.680.addons.qtcharts.win64_mingw/6.8.0-0-202410030750qtcharts-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1923345] Started
+[1924017] perform qt.qt6.680.doc concurrent operation: Extract
+[1924017] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtlabsplatform-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1924017] Started
+[1924408] perform qt.qt6.680.win64_mingw concurrent operation: Extract
+[1924408] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750MinGW-w64-x86_64-13.1.0-release-posix-seh-msvcrt-rt_v11-rev1-runtime.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1924408] Started
+[1924838] perform qt.qt6.680.doc concurrent operation: Extract
+[1924838] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtassistant-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1924838] Started
+[1925115] perform qt.qt6.680.doc.qtmultimedia concurrent operation: Extract
+[1925115] 	- arguments: installer://qt.qt6.680.doc.qtmultimedia/6.8.0-0-202410030750qtspatialaudio-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1925115] Started
+[1925831] perform qt.qt6.680.doc concurrent operation: Extract
+[1925831] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtdbus-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1925831] Started
+[1926120] perform qt.qt6.680.examples concurrent operation: Extract
+[1926120] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qttools-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1926120] Started
+[1927107] perform qt.qt6.680.doc concurrent operation: Extract
+[1927107] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtxml-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1927107] Started
+[1928041] perform qt.qt6.680.doc concurrent operation: Extract
+[1928041] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtprintsupport-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1928041] Started
+[1928768] perform qt.qt6.680.doc concurrent operation: Extract
+[1928768] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qdoc-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1928768] Started
+[1928778] perform qt.qt6.680.doc concurrent operation: Extract
+[1928778] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qmake-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1928778] Started
+[1929913] perform qt.qt6.680.doc concurrent operation: Extract
+[1929913] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtquickdialogs-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1929913] Started
+[1929958] perform qt.qt6.680.doc concurrent operation: Extract
+[1929958] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qthelp-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1929958] Started
+[1930725] perform qt.qt6.680.doc concurrent operation: Extract
+[1930725] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qttestlib-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1930725] Started
+[1930732] perform qt.qt6.680.doc concurrent operation: Extract
+[1930732] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtconcurrent-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1930732] Started
+[1930871] perform qt.qt6.680.doc concurrent operation: Extract
+[1930871] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtuitools-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1930871] Started
+[1931353] perform qt.qt6.680.win64_mingw concurrent operation: Extract
+[1931353] 	- arguments: installer://qt.qt6.680.win64_mingw/6.8.0-0-202410030750qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1931353] Started
+[1931390] perform qt.tools.ninja concurrent operation: Extract
+[1931390] 	- arguments: installer://qt.tools.ninja/1.12.0-202405151040ninja_win64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1931390] Started
+[1931396] perform qt.qt6.680.doc concurrent operation: Extract
+[1931396] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qt5-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1931396] Started
+[1931897] perform qt.qt6.680.doc concurrent operation: Extract
+[1931897] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmlmodels-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1931897] Started
+[1932650] perform qt.tools.qtcreator_gui.telemetry concurrent operation: Extract
+[1932650] 	- arguments: installer://qt.tools.qtcreator_gui.telemetry/14.0.2-0-202409270453telemetry.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1932650] Started
+[1932657] perform qt.qt6.680.doc concurrent operation: Extract
+[1932657] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtdistancefieldgenerator-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1932657] Started
+[1932876] perform qt.qt6.680.examples.qtcharts concurrent operation: Extract
+[1932876] 	- arguments: installer://qt.qt6.680.examples.qtcharts/6.8.0-0-202410030750qtcharts-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1932876] Started
+[1933042] perform qt.qt6.680.doc concurrent operation: Extract
+[1933042] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtsvg-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1933042] Started
+[1933054] perform qt.qt6.680.doc concurrent operation: Extract
+[1933054] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtcmake-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1933054] Started
+[1933964] perform qt.qt6.680.doc concurrent operation: Extract
+[1933964] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmltest-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1933964] Started
+[1934044] perform qt.qt6.680.doc concurrent operation: Extract
+[1934044] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmlcore-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1934044] Started
+[1934190] perform qt.qt6.680.doc concurrent operation: Extract
+[1934190] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtplatformintegration-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1934190] Started
+[1934610] perform qt.qt6.680.doc concurrent operation: Extract
+[1934610] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmlxmllistmodel-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1934610] Started
+[1935261] perform qt.qt6.680.doc concurrent operation: Extract
+[1935261] 	- arguments: installer://qt.qt6.680.doc/6.8.0-0-202410030750qtqmlworkerscript-documentation.zip, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1935261] Started
+[1935367] perform qt.tools.qtcreator_gui concurrent operation: Extract
+[1935367] 	- arguments: installer://qt.tools.qtcreator_gui/14.0.2-0-202409270455wininterrupt64.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1935367] Started
+[1935624] perform qt.tools.maintenance concurrent operation: Extract
+[1935624] 	- arguments: installer://qt.tools.maintenance/4.8.1-202409230636installer-resource.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1935624] Started
+[1935649] perform qt.license.thirdparty concurrent operation: Extract
+[1935649] 	- arguments: installer://qt.license.thirdparty/1.0.0-1Licenses.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1935649] Started
+[1935822] perform qt.tools.maintenance concurrent operation: Extract
+[1935822] 	- arguments: installer://qt.tools.maintenance/4.8.1-202409230636installer-changelog.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1935822] Started
+[1935843] perform qt.qt6.680 concurrent operation: Extract
+[1935843] 	- arguments: installer://qt.qt6.680/6.8.0-0-202410030750sha1s.txt.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1935843] Started
+[1935877] perform qt.tools.qtdesignstudio concurrent operation: Extract
+[1935877] 	- arguments: installer://qt.tools.qtdesignstudio/4.6.1-0-202410021209content.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1935877] Started
+[1936105] perform qt.qt6.680.examples concurrent operation: Extract
+[1936105] 	- arguments: installer://qt.qt6.680.examples/6.8.0-0-202410030750qtsvg-examples-6.8.0.7z, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt
+[1936105] Started
+[2002716] Instalando componente Qt Maintenance Tool
+[2002717] backup qt.tools.maintenance operation: CreateShortcut
+[2002717] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/MaintenanceTool.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/Uninstall Qt.lnk, --start-uninstaller
+[2002718] Done
+[2002718] perform qt.tools.maintenance operation: CreateShortcut
+[2002718] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/MaintenanceTool.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/Uninstall Qt.lnk, --start-uninstaller
+[2003290] Done
+[2003291] backup qt.tools.maintenance operation: CreateShortcut
+[2003291] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/MaintenanceTool.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/Qt Maintenance Tool.lnk, workingDirectory=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt, --start-package-manager
+[2003291] Done
+[2003291] perform qt.tools.maintenance operation: CreateShortcut
+[2003291] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/MaintenanceTool.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/Qt Maintenance Tool.lnk, --start-package-manager
+[2003338] Done
+[2003353] Instalando componente License GPL3-EXCEPT
+[2003359] backup qt.license.gplv3except operation: License
+[2003359] 	- arguments:
+[2003359] Done
+[2003360] perform qt.license.gplv3except operation: License
+[2003360] 	- arguments:
+[2003361] Done
+[2003364] Instalando componente Qt Design Studio 4.6.1
+[2003367] backup qt.tools.qtdesignstudio operation: Settings
+[2003367] 	- arguments: path=D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt//Tools/QtDesignStudio/share/qtcreator/QtProject/QtDesignStudio.ini, method=set, key=Updater/MaintenanceTool, value=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/MaintenanceTool.exe
+[2003367] Done
+[2003371] perform qt.tools.qtdesignstudio operation: Settings
+[2003371] 	- arguments: path=D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt//Tools/QtDesignStudio/share/qtcreator/QtProject/QtDesignStudio.ini, method=set, key=Updater/MaintenanceTool, value=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/MaintenanceTool.exe
+[2004948] Done
+[2004948] backup qt.tools.qtdesignstudio operation: Settings
+[2004948] 	- arguments: path=D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt//Tools/QtDesignStudio/share/qtcreator/QtProject/QtDesignStudio.ini, method=add_array_value, key=Plugins/ForceEnabled, value=UpdateInfo
+[2004948] Done
+[2004949] perform qt.tools.qtdesignstudio operation: Settings
+[2004949] 	- arguments: path=D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt//Tools/QtDesignStudio/share/qtcreator/QtProject/QtDesignStudio.ini, method=add_array_value, key=Plugins/ForceEnabled, value=UpdateInfo
+[2005348] Done
+[2005349] backup qt.tools.qtdesignstudio operation: RegisterFileType
+[2005349] 	- arguments: qmlproject, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\qtdesignstudio.exe -client "%1", QML Project file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\qtdesignstudio.exe,7, ProgId=QtProject.QtDesignStudio.qmlproject
+[2005349] Done
+[2005349] perform qt.tools.qtdesignstudio operation: RegisterFileType
+[2005349] 	- arguments: qmlproject, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\qtdesignstudio.exe -client "%1", QML Project file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\qtdesignstudio.exe,7, ProgId=QtProject.QtDesignStudio.qmlproject
+[2005619] Done
+[2005619] backup qt.tools.qtdesignstudio operation: CreateShortcut
+[2005619] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\qtdesignstudio.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt\Qt Design Studio.lnk, workingDirectory=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\bin, iconPath=D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\qtdesignstudio.exe, iconId=0
+[2005619] Done
+[2005620] perform qt.tools.qtdesignstudio operation: CreateShortcut
+[2005620] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\qtdesignstudio.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt\Qt Design Studio.lnk
+[2014532] Done
+[2014533] backup qt.tools.qtdesignstudio operation: CreateShortcut
+[2014533] 	- arguments: undefined, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt\Uninstall Qt Design Studio.lnk, workingDirectory=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt, iconPath=undefined, iconId=0
+[2014534] Done
+[2014534] perform qt.tools.qtdesignstudio operation: CreateShortcut
+[2014534] 	- arguments: undefined, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt\Uninstall Qt Design Studio.lnk
+[2015880] Done
+[2015881] backup qt.tools.qtdesignstudio operation: Execute
+[2015881] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addTC, --id, ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23}, --language, C, --name, mock C compiler, --abi, x86-windows-msvc2019-pe-64bit, --path, not_existing, ProjectExplorer.CustomToolChain.TargetAbi, QString:x86-windows-msvc2019-pe-64bit, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmTC, --id, ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23}
+[2015881] Done
+[2015882] perform qt.tools.qtdesignstudio operation: Execute
+[2015882] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addTC, --id, ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23}, --language, C, --name, mock C compiler, --abi, x86-windows-msvc2019-pe-64bit, --path, not_existing, ProjectExplorer.CustomToolChain.TargetAbi, QString:x86-windows-msvc2019-pe-64bit, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmTC, --id, ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23}
+[2027196] D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\bin\\sdktool.exe" started, arguments: "-s D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\share\\qtcreator\\\\QtProject\\qtdesignstudio addTC --id ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23} --language C --name mock C compiler --abi x86-windows-msvc2019-pe-64bit --path not_existing ProjectExplorer.CustomToolChain.TargetAbi QString:x86-windows-msvc2019-pe-64bit
+[2030132] Done
+[2030132] backup qt.tools.qtdesignstudio operation: Execute
+[2030132] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addTC, --id, ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}, --language, Cxx, --name, mock C++ compiler, --abi, x86-windows-msvc2019-pe-64bit, --path, not_existing, ProjectExplorer.CustomToolChain.TargetAbi, QString:x86-windows-msvc2019-pe-64bit, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmTC, --id, ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}
+[2030132] Done
+[2030133] perform qt.tools.qtdesignstudio operation: Execute
+[2030133] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addTC, --id, ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}, --language, Cxx, --name, mock C++ compiler, --abi, x86-windows-msvc2019-pe-64bit, --path, not_existing, ProjectExplorer.CustomToolChain.TargetAbi, QString:x86-windows-msvc2019-pe-64bit, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmTC, --id, ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}
+[2030138] D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\bin\\sdktool.exe" started, arguments: "-s D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\share\\qtcreator\\\\QtProject\\qtdesignstudio addTC --id ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28} --language Cxx --name mock C++ compiler --abi x86-windows-msvc2019-pe-64bit --path not_existing ProjectExplorer.CustomToolChain.TargetAbi QString:x86-windows-msvc2019-pe-64bit
+[2030987] Done
+[2030987] backup qt.tools.qtdesignstudio operation: Execute
+[2030989] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addQt, --id, qt.tools.qtdesignstudio_qt6, --name, Designer specialized Qt %{Qt:Version}, --type, Qt4ProjectManager.QtVersion.Desktop, --qmake, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/QtDesignStudio/qt6_design_studio_reduced_version/bin/qmake.exe, overrideFeatures, QString:QtStudio, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmQt, --id, qt.tools.qtdesignstudio_qt6
+[2030989] Done
+[2030989] perform qt.tools.qtdesignstudio operation: Execute
+[2030990] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addQt, --id, qt.tools.qtdesignstudio_qt6, --name, Designer specialized Qt %{Qt:Version}, --type, Qt4ProjectManager.QtVersion.Desktop, --qmake, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/QtDesignStudio/qt6_design_studio_reduced_version/bin/qmake.exe, overrideFeatures, QString:QtStudio, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmQt, --id, qt.tools.qtdesignstudio_qt6
+[2031001] D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\bin\\sdktool.exe" started, arguments: "-s D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\share\\qtcreator\\\\QtProject\\qtdesignstudio addQt --id qt.tools.qtdesignstudio_qt6 --name Designer specialized Qt %{Qt:Version} --type Qt4ProjectManager.QtVersion.Desktop --qmake D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/QtDesignStudio/qt6_design_studio_reduced_version/bin/qmake.exe overrideFeatures QString:QtStudio
+[2031245] Done
+[2031245] backup qt.tools.qtdesignstudio operation: Execute
+[2031245] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addKit, --id, {63f87550-2541-4163-9631-08b7fea781da}, --name, Desktop Qt %{Qt:Version}, --devicetype, Desktop, --qt, qt.tools.qtdesignstudio_qt6, --Ctoolchain, ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23}, --Cxxtoolchain, ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmKit, --id, {63f87550-2541-4163-9631-08b7fea781da}
+[2031245] Done
+[2031246] perform qt.tools.qtdesignstudio operation: Execute
+[2031246] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addKit, --id, {63f87550-2541-4163-9631-08b7fea781da}, --name, Desktop Qt %{Qt:Version}, --devicetype, Desktop, --qt, qt.tools.qtdesignstudio_qt6, --Ctoolchain, ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23}, --Cxxtoolchain, ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmKit, --id, {63f87550-2541-4163-9631-08b7fea781da}
+[2031252] D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\bin\\sdktool.exe" started, arguments: "-s D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\share\\qtcreator\\\\QtProject\\qtdesignstudio addKit --id {63f87550-2541-4163-9631-08b7fea781da} --name Desktop Qt %{Qt:Version} --devicetype Desktop --qt qt.tools.qtdesignstudio_qt6 --Ctoolchain ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23} --Cxxtoolchain ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}
+[2031975] Done
+[2031976] backup qt.tools.qtdesignstudio operation: Execute
+[2031976] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addKit, --id, {fcfcb7a6-2c80-4785-b1a9-02d08953be61}, --name, Android device, --devicetype, Android.Device.Type, --qt, qt.tools.qtdesignstudio_qt6, --Ctoolchain, ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23}, --Cxxtoolchain, ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmKit, --id, {fcfcb7a6-2c80-4785-b1a9-02d08953be61}
+[2031976] Done
+[2031976] perform qt.tools.qtdesignstudio operation: Execute
+[2031976] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, addKit, --id, {fcfcb7a6-2c80-4785-b1a9-02d08953be61}, --name, Android device, --devicetype, Android.Device.Type, --qt, qt.tools.qtdesignstudio_qt6, --Ctoolchain, ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23}, --Cxxtoolchain, ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}, UNDOEXECUTE, {0,2}, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\bin\sdktool.exe, -s, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtDesignStudio\share\qtcreator\\QtProject\qtdesignstudio, rmKit, --id, {fcfcb7a6-2c80-4785-b1a9-02d08953be61}
+[2031990] D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\bin\\sdktool.exe" started, arguments: "-s D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\\\Tools\\QtDesignStudio\\share\\qtcreator\\\\QtProject\\qtdesignstudio addKit --id {fcfcb7a6-2c80-4785-b1a9-02d08953be61} --name Android device --devicetype Android.Device.Type --qt qt.tools.qtdesignstudio_qt6 --Ctoolchain ProjectExplorer.ToolChain.Custom:{9799e31f-e3d0-47cb-8bc1-1d0806d0ed23} --Cxxtoolchain ProjectExplorer.ToolChain.Custom:{c702c2f1-69f7-41b6-a4b1-77569d527e28}
+[2032715] Done
+[2032715] backup qt.tools.qtdesignstudio operation: SimpleMoveFile
+[2032716] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/README.txt, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/QtDesignStudio/README.txt
+[2032716] Done
+[2032716] perform qt.tools.qtdesignstudio operation: SimpleMoveFile
+[2032716] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/README.txt, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/QtDesignStudio/README.txt
+[2032728] Done
+[2032742] Instalando componente Qt License LGPL
+[2032749] backup qt.license.lgpl operation: License
+[2032749] 	- arguments:
+[2032749] Done
+[2032749] perform qt.license.lgpl operation: License
+[2032749] 	- arguments:
+[2032751] Done
+[2032765] Instalando componente Qt 6.8.0 Documentation
+[2032767] backup qt.qt6.680.doc operation: Settings
+[2032767] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=Help/InstalledDocumentation, value=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Docs/Qt-6.8.0/
+[2032767] Done
+[2032769] perform qt.qt6.680.doc operation: Settings
+[2032769] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=Help/InstalledDocumentation, value=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Docs/Qt-6.8.0/
+[2033505] Done
+[2033508] Instalando componente Qt 6.8.0 Examples
+[2033509] backup qt.qt6.680.examples operation: Settings
+[2033510] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=Help/InstalledExamples, value=Qt6 6.8.0|D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Docs/Qt-6.8.0|D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Examples/Qt-6.8.0/
+[2033510] Done
+[2033510] perform qt.qt6.680.examples operation: Settings
+[2033511] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=Help/InstalledExamples, value=Qt6 6.8.0|D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Docs/Qt-6.8.0|D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Examples/Qt-6.8.0/
+[2034250] Done
+[2034290] Instalando componente SDKTool
+[2034292] backup qt.tools.qtcreator operation: Settings
+[2034292] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=set, key=Updater/MaintenanceTool, value=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/MaintenanceTool.exe
+[2034293] Done
+[2034294] perform qt.tools.qtcreator operation: Settings
+[2034294] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=set, key=Updater/MaintenanceTool, value=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/MaintenanceTool.exe
+[2035149] Done
+[2035150] backup qt.tools.qtcreator operation: Settings
+[2035150] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=Plugins/ForceEnabled, value=UpdateInfo
+[2035150] Done
+[2035151] perform qt.tools.qtcreator operation: Settings
+[2035151] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=Plugins/ForceEnabled, value=UpdateInfo
+[2036069] Done
+[2036088] Instalando componente MinGW 13.1.0 64-bit
+[2036092] backup qt.tools.win64_mingw1310 operation: Execute
+[2036092] 	- arguments: {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.gcc, --name, MinGW 13.1.0 64-bit for C, --path, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin/gcc.exe, --abi, x86-windows-msys-pe-64bit, --language, C, --supportedAbis, x86-windows-msys-pe-64bit, UNDOEXECUTE, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.gcc
+[2036092] Done
+[2036096] perform qt.tools.win64_mingw1310 operation: Execute
+[2036096] 	- arguments: {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.gcc, --name, MinGW 13.1.0 64-bit for C, --path, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin/gcc.exe, --abi, x86-windows-msys-pe-64bit, --language, C, --supportedAbis, x86-windows-msys-pe-64bit, UNDOEXECUTE, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.gcc
+[2037218] D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\\/Tools/sdktool\\bin\\sdktool.exe" started, arguments: "addTC --id ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.gcc --name MinGW 13.1.0 64-bit for C --path D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin/gcc.exe --abi x86-windows-msys-pe-64bit --language C --supportedAbis x86-windows-msys-pe-64bit
+[2037762] Done
+[2037762] backup qt.tools.win64_mingw1310 operation: Execute
+[2037762] 	- arguments: {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.g++, --name, MinGW 13.1.0 64-bit for C++, --path, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin/g++.exe, --abi, x86-windows-msys-pe-64bit, --language, Cxx, --supportedAbis, x86-windows-msys-pe-64bit, UNDOEXECUTE, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.g++
+[2037762] Done
+[2037762] perform qt.tools.win64_mingw1310 operation: Execute
+[2037762] 	- arguments: {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.g++, --name, MinGW 13.1.0 64-bit for C++, --path, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin/g++.exe, --abi, x86-windows-msys-pe-64bit, --language, Cxx, --supportedAbis, x86-windows-msys-pe-64bit, UNDOEXECUTE, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmTC, --id, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.g++
+[2037772] D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\\/Tools/sdktool\\bin\\sdktool.exe" started, arguments: "addTC --id ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.g++ --name MinGW 13.1.0 64-bit for C++ --path D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin/g++.exe --abi x86-windows-msys-pe-64bit --language Cxx --supportedAbis x86-windows-msys-pe-64bit
+[2038080] Done
+[2038080] backup qt.tools.win64_mingw1310 operation: Execute
+[2038080] 	- arguments: {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addDebugger, --id, Debugger.qt.tools.win64_mingw1310, --name, GNU gdb 13.1.0 64-bit, --binary, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin/gdb.exe, --abis, x86-windows-msys-pe-64bit, --engine, 1, UNDOEXECUTE, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmDebugger, --id, Debugger.qt.tools.win64_mingw1310
+[2038080] Done
+[2038080] perform qt.tools.win64_mingw1310 operation: Execute
+[2038081] 	- arguments: {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addDebugger, --id, Debugger.qt.tools.win64_mingw1310, --name, GNU gdb 13.1.0 64-bit, --binary, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin/gdb.exe, --abis, x86-windows-msys-pe-64bit, --engine, 1, UNDOEXECUTE, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmDebugger, --id, Debugger.qt.tools.win64_mingw1310
+[2038090] D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\\/Tools/sdktool\\bin\\sdktool.exe" started, arguments: "addDebugger --id Debugger.qt.tools.win64_mingw1310 --name GNU gdb 13.1.0 64-bit --binary D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin/gdb.exe --abis x86-windows-msys-pe-64bit --engine 1
+[2038628] Done
+[2038628] backup qt.tools.win64_mingw1310 operation: Execute
+[2038628] 	- arguments: {0,4}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addKeys, android, MakeExtraSearchDirectory, QString:D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin
+[2038628] Done
+[2038629] perform qt.tools.win64_mingw1310 operation: Execute
+[2038629] 	- arguments: {0,4}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addKeys, android, MakeExtraSearchDirectory, QString:D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin
+[2038818] D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\\/Tools/sdktool\\bin\\sdktool.exe" started, arguments: "addKeys android MakeExtraSearchDirectory QString:D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/Tools/mingw1310_64/bin
+[2039162] Done
+[2039168] backup qt.qt6.680.win64_mingw operation: ConsumeOutput
+[2039168] 	- arguments: qt.qt6.680.win64_mingw_qmakeoutput, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qmake.exe, -query
+[2039168] Done
+[2039169] perform qt.qt6.680.win64_mingw operation: ConsumeOutput
+[2039169] 	- arguments: qt.qt6.680.win64_mingw_qmakeoutput, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qmake.exe, -query
+[2045097] Done
+[2045098] backup qt.qt6.680.win64_mingw operation: QtPatch
+[2045098] 	- arguments: windows, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64, qt5-no-bin-patch, QmakeOutputInstallerKey=qt.qt6.680.win64_mingw_qmakeoutput
+[2045098] Done
+[2045098] perform qt.qt6.680.win64_mingw operation: QtPatch
+[2045098] 	- arguments: windows, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64, qt5-no-bin-patch, QmakeOutputInstallerKey=qt.qt6.680.win64_mingw_qmakeoutput
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Xml.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Widgets.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Test.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Sql.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6PrintSupport.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Platform.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6OpenGLWidgets.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6OpenGL.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Network.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Gui.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6DBus.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Core.pc'
+[2046531] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Concurrent.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickWidgets.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickVectorImage.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickTest.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickTemplates2.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickLayouts.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickDialogs2Utils.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickDialogs2QuickImpl.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickDialogs2.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2WindowsStyleImpl.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2UniversalStyleImpl.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Universal.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2MaterialStyleImpl.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Material.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Impl.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2ImagineStyleImpl.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Imagine.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2FusionStyleImpl.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Fusion.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2FluentWinUI3StyleImpl.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2BasicStyleImpl.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Basic.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Quick.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlXmlListModel.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlWorkerScript.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlNetwork.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlModels.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlMeta.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlLocalStorage.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlIntegration.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlCore.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlCompiler.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlAssetDownloader.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Qml.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsWavefrontMesh.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsSharedImage.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsSettings.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsQmlModels.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsPlatform.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsFolderListModel.pc'
+[2046555] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsAnimation.pc'
+[2046562] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6SvgWidgets.pc'
+[2046562] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Svg.pc'
+[2046563] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6UiTools.pc'
+[2046563] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6UiPlugin.pc'
+[2046563] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Linguist.pc'
+[2046563] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Help.pc'
+[2046563] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Designer.pc'
+[2049391] Done
+[2049391] backup qt.qt6.680.win64_mingw operation: AppendFile
+[2049391] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64\bin\qtenv2.bat, @echo off
+echo Setting up environment for Qt usage...
+set PATH=D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64\bin;D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\Tools\mingw1310_64\bin;%PATH%
+cd /D D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64
+
+[2049391] Done
+[2049391] perform qt.qt6.680.win64_mingw operation: AppendFile
+[2049391] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64\bin\qtenv2.bat, @echo off
+echo Setting up environment for Qt usage...
+set PATH=D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64\bin;D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\Tools\mingw1310_64\bin;%PATH%
+cd /D D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64
+
+[2049392] Done
+[2049392] backup qt.qt6.680.win64_mingw operation: CreateShortcut
+[2049392] 	- arguments: C:\WINDOWS\system32\cmd.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/6.8.0/MinGW 13.1.0 (64-bit)/Qt 6.8.0 (MinGW 13.1.0 64-bit).lnk, /A /Q /K D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64\bin\qtenv2.bat
+[2049393] Done
+[2049393] perform qt.qt6.680.win64_mingw operation: CreateShortcut
+[2049393] 	- arguments: C:\WINDOWS\system32\cmd.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/6.8.0/MinGW 13.1.0 (64-bit)/Qt 6.8.0 (MinGW 13.1.0 64-bit).lnk, /A /Q /K D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64\bin\qtenv2.bat
+[2049482] Done
+[2049483] backup qt.qt6.680.win64_mingw operation: CreateShortcut
+[2049483] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64/bin/assistant.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/6.8.0/MinGW 13.1.0 (64-bit)/Assistant 6.8.0 (MinGW 13.1.0 64-bit).lnk
+[2049483] Done
+[2049484] perform qt.qt6.680.win64_mingw operation: CreateShortcut
+[2049484] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64/bin/assistant.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/6.8.0/MinGW 13.1.0 (64-bit)/Assistant 6.8.0 (MinGW 13.1.0 64-bit).lnk
+[2050802] Done
+[2050802] backup qt.qt6.680.win64_mingw operation: CreateShortcut
+[2050802] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64/bin/designer.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/6.8.0/MinGW 13.1.0 (64-bit)/Designer 6.8.0 (MinGW 13.1.0 64-bit).lnk
+[2050802] Done
+[2050802] perform qt.qt6.680.win64_mingw operation: CreateShortcut
+[2050802] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64/bin/designer.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/6.8.0/MinGW 13.1.0 (64-bit)/Designer 6.8.0 (MinGW 13.1.0 64-bit).lnk
+[2051487] Done
+[2051487] backup qt.qt6.680.win64_mingw operation: CreateShortcut
+[2051487] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64/bin/linguist.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/6.8.0/MinGW 13.1.0 (64-bit)/Linguist 6.8.0 (MinGW 13.1.0 64-bit).lnk
+[2051487] Done
+[2051487] perform qt.qt6.680.win64_mingw operation: CreateShortcut
+[2051487] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\6.8.0\mingw_64/bin/linguist.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt/6.8.0/MinGW 13.1.0 (64-bit)/Linguist 6.8.0 (MinGW 13.1.0 64-bit).lnk
+[2052130] Done
+[2052130] backup qt.qt6.680.win64_mingw operation: Execute
+[2052130] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addQt, --id, qt.qt6.680.win64_mingw, --name, Qt %{Qt:Version} MinGW 64-bit, --type, Qt4ProjectManager.QtVersion.Desktop, --qmake, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qmake.exe, UNDOEXECUTE, {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmQt, --id, qt.qt6.680.win64_mingw
+[2052130] Done
+[2052130] perform qt.qt6.680.win64_mingw operation: Execute
+[2052131] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addQt, --id, qt.qt6.680.win64_mingw, --name, Qt %{Qt:Version} MinGW 64-bit, --type, Qt4ProjectManager.QtVersion.Desktop, --qmake, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qmake.exe, UNDOEXECUTE, {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmQt, --id, qt.qt6.680.win64_mingw
+[2052136] D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\\/Tools/sdktool\\bin\\sdktool.exe" started, arguments: "addQt --id qt.qt6.680.win64_mingw --name Qt %{Qt:Version} MinGW 64-bit --type Qt4ProjectManager.QtVersion.Desktop --qmake D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qmake.exe
+[2053061] Done
+[2053061] backup qt.qt6.680.win64_mingw operation: Execute
+[2053061] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addKit, --id, qt.qt6.680.win64_mingw_kit, --name, Desktop Qt %{Qt:Version} MinGW 64-bit, --Ctoolchain, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.gcc, --Cxxtoolchain, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.g++, --qt, qt.qt6.680.win64_mingw, --debuggerid, Debugger.qt.tools.win64_mingw1310, --devicetype, Desktop, UNDOEXECUTE, {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmKit, --id, qt.qt6.680.win64_mingw_kit
+[2053061] Done
+[2053062] perform qt.qt6.680.win64_mingw operation: Execute
+[2053062] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addKit, --id, qt.qt6.680.win64_mingw_kit, --name, Desktop Qt %{Qt:Version} MinGW 64-bit, --Ctoolchain, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.gcc, --Cxxtoolchain, ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.g++, --qt, qt.qt6.680.win64_mingw, --debuggerid, Debugger.qt.tools.win64_mingw1310, --devicetype, Desktop, UNDOEXECUTE, {0,2}, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmKit, --id, qt.qt6.680.win64_mingw_kit
+[2053081] D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\\/Tools/sdktool\\bin\\sdktool.exe" started, arguments: "addKit --id qt.qt6.680.win64_mingw_kit --name Desktop Qt %{Qt:Version} MinGW 64-bit --Ctoolchain ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.gcc --Cxxtoolchain ProjectExplorer.ToolChain.Mingw:qt.tools.win64_mingw1310.g++ --qt qt.qt6.680.win64_mingw --debuggerid Debugger.qt.tools.win64_mingw1310 --devicetype Desktop
+[2053350] Done
+[2053350] backup qt.qt6.680.win64_mingw operation: QtPatch
+[2053350] 	- arguments: windows, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64, QmakeOutputInstallerKey=qt.qt6.680.win64_mingw_qmakeoutput, oldQtPath=/Users/qt/work/install, qt5-no-bin-patch
+[2053350] Done
+[2053351] perform qt.qt6.680.win64_mingw operation: QtPatch
+[2053351] 	- arguments: windows, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64, QmakeOutputInstallerKey=qt.qt6.680.win64_mingw_qmakeoutput, oldQtPath=/Users/qt/work/install, qt5-no-bin-patch
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Xml.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Widgets.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Test.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Sql.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6PrintSupport.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Platform.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6OpenGLWidgets.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6OpenGL.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Network.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Gui.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6DBus.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Core.pc'
+[2053401] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Concurrent.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickWidgets.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickVectorImage.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickTest.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickTemplates2.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickLayouts.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickDialogs2Utils.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickDialogs2QuickImpl.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickDialogs2.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2WindowsStyleImpl.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2UniversalStyleImpl.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Universal.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2MaterialStyleImpl.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Material.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Impl.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2ImagineStyleImpl.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Imagine.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2FusionStyleImpl.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Fusion.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2FluentWinUI3StyleImpl.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2BasicStyleImpl.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2Basic.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QuickControls2.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Quick.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlXmlListModel.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlWorkerScript.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlNetwork.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlModels.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlMeta.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlLocalStorage.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlIntegration.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlCore.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlCompiler.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6QmlAssetDownloader.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Qml.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsWavefrontMesh.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsSharedImage.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsSettings.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsQmlModels.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsPlatform.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsFolderListModel.pc'
+[2053415] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6LabsAnimation.pc'
+[2053421] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6SvgWidgets.pc'
+[2053422] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Svg.pc'
+[2053423] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6UiTools.pc'
+[2053423] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6UiPlugin.pc'
+[2053423] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Linguist.pc'
+[2053423] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Help.pc'
+[2053423] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Designer.pc'
+[2053500] Done
+[2053500] backup qt.qt6.680.win64_mingw operation: Settings
+[2053500] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qt.conf, method=set, key=Paths/Prefix, value=..
+[2053500] Done
+[2053500] perform qt.qt6.680.win64_mingw operation: Settings
+[2053500] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qt.conf, method=set, key=Paths/Prefix, value=..
+[2054279] Done
+[2054279] backup qt.qt6.680.win64_mingw operation: Settings
+[2054279] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qt.conf, method=set, key=Paths/Examples, value=../../Examples/Qt-6.8.0
+[2054279] Done
+[2054279] perform qt.qt6.680.win64_mingw operation: Settings
+[2054279] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qt.conf, method=set, key=Paths/Examples, value=../../Examples/Qt-6.8.0
+[2054731] Done
+[2054731] backup qt.qt6.680.win64_mingw operation: Settings
+[2054731] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qt.conf, method=set, key=Paths/Documentation, value=../../Docs/Qt-6.8.0
+[2054731] Done
+[2054732] perform qt.qt6.680.win64_mingw operation: Settings
+[2054732] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/bin/qt.conf, method=set, key=Paths/Documentation, value=../../Docs/Qt-6.8.0
+[2055250] Done
+[2055251] backup qt.qt6.680.win64_mingw operation: LineReplace
+[2055251] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/mkspecs/qconfig.pri, QT_EDITION =, QT_EDITION = OpenSource
+[2055251] Done
+[2055251] perform qt.qt6.680.win64_mingw operation: LineReplace
+[2055251] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/mkspecs/qconfig.pri, QT_EDITION =, QT_EDITION = OpenSource
+[2055404] Done
+[2055404] backup qt.qt6.680.win64_mingw operation: LineReplace
+[2055404] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/mkspecs/qconfig.pri, QT_LICHECK = licheck.exe, QT_LICHECK =
+[2055404] Done
+[2055404] perform qt.qt6.680.win64_mingw operation: LineReplace
+[2055404] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/mkspecs/qconfig.pri, QT_LICHECK = licheck.exe, QT_LICHECK =
+[2055471] Done
+[2055532] Instalando componente CMake 3.29.3
+[2055534] backup qt.tools.cmake operation: Execute
+[2055535] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addCMake, --id, qt.tools.cmake, --name, CMake 3.29.3 (Qt), --path, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\Tools\CMake_64\bin\cmake.exe, UNDOEXECUTE, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmCMake, --id, qt.tools.cmake
+[2055535] Done
+[2055537] perform qt.tools.cmake operation: Execute
+[2055538] 	- arguments: D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, addCMake, --id, qt.tools.cmake, --name, CMake 3.29.3 (Qt), --path, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\Tools\CMake_64\bin\cmake.exe, UNDOEXECUTE, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\/Tools/sdktool\bin\sdktool.exe, rmCMake, --id, qt.tools.cmake
+[2055550] D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\\/Tools/sdktool\\bin\\sdktool.exe" started, arguments: "addCMake --id qt.tools.cmake --name CMake 3.29.3 (Qt) --path D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\\Tools\\CMake_64\\bin\\cmake.exe
+[2055904] Done
+[2055905] backup qt.tools.cmake operation: License
+[2055905] 	- arguments:
+[2055905] Done
+[2055905] perform qt.tools.cmake operation: License
+[2055905] 	- arguments:
+[2055906] Done
+[2055910] Instalando componente Ninja 1.12.0
+[2055912] backup qt.tools.ninja operation: Settings
+[2055913] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=CMakeSpecificSettings/NinjaPath, value=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\Tools\Ninja\ninja.exe
+[2055913] Done
+[2055914] perform qt.tools.ninja operation: Settings
+[2055915] 	- arguments: path=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt//Tools/sdktool/share/qtcreator/QtProject/QtCreator.ini, method=add_array_value, key=CMakeSpecificSettings/NinjaPath, value=D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt\Tools\Ninja\ninja.exe
+[2056481] Done
+[2056483] backup qt.tools.ninja operation: License
+[2056483] 	- arguments:
+[2056483] Done
+[2056483] perform qt.tools.ninja operation: License
+[2056483] 	- arguments:
+[2056487] Done
+[2056493] Instalando componente Qt Creator 14.0.2
+[2056498] backup qt.tools.qtcreator_gui operation: CreateShortcut
+[2056498] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt\Qt Creator 14.0.2 (Community).lnk, workingDirectory=C:/Users/Carlos
+[2056499] Done
+[2056500] perform qt.tools.qtcreator_gui operation: CreateShortcut
+[2056501] 	- arguments: D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe, C:\Users\Carlos\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt\Qt Creator 14.0.2 (Community).lnk
+[2057543] Done
+[2057543] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2057543] 	- arguments: ui, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt UI file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,4, ProgId=QtProject.QtCreator.ui
+[2057543] Done
+[2057543] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2057543] 	- arguments: ui, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt UI file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,4, ProgId=QtProject.QtCreator.ui
+[2057755] Done
+[2057756] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2057756] 	- arguments: pro, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.pro
+[2057756] Done
+[2057756] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2057756] 	- arguments: pro, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.pro
+[2057973] Done
+[2057973] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2057973] 	- arguments: pri, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project Include file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,6, ProgId=QtProject.QtCreator.pri
+[2057973] Done
+[2057974] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2057974] 	- arguments: pri, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Project Include file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,6, ProgId=QtProject.QtCreator.pri
+[2058140] Done
+[2058140] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2058140] 	- arguments: qbs, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qbs Project file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.qbs
+[2058140] Done
+[2058140] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2058140] 	- arguments: qbs, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qbs Project file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,5, ProgId=QtProject.QtCreator.qbs
+[2058284] Done
+[2058284] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2058284] 	- arguments: qs, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Script file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,0, ProgId=QtProject.QtCreator.qs
+[2058284] Done
+[2058284] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2058284] 	- arguments: qs, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Script file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,0, ProgId=QtProject.QtCreator.qs
+[2058386] Done
+[2058387] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2058387] 	- arguments: qml, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Quick Markup language file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,7, ProgId=QtProject.QtCreator.qml
+[2058387] Done
+[2058387] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2058387] 	- arguments: qml, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", Qt Quick Markup language file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,7, ProgId=QtProject.QtCreator.qml
+[2058529] Done
+[2058530] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2058530] 	- arguments: h, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h
+[2058530] Done
+[2058530] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2058530] 	- arguments: h, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h
+[2058628] Done
+[2058628] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2058628] 	- arguments: hh, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hh
+[2058628] Done
+[2058628] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2058628] 	- arguments: hh, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hh
+[2058705] Done
+[2058706] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2058706] 	- arguments: hxx, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hxx
+[2058706] Done
+[2058706] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2058706] 	- arguments: hxx, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hxx
+[2058791] Done
+[2058791] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2058791] 	- arguments: h++, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h++
+[2058791] Done
+[2058791] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2058791] 	- arguments: h++, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.h++
+[2058994] Done
+[2058995] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2058995] 	- arguments: hpp, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hpp
+[2058995] Done
+[2058995] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2058995] 	- arguments: hpp, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Header file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,3, ProgId=QtProject.QtCreator.hpp
+[2059095] Done
+[2059095] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2059095] 	- arguments: cc, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cc
+[2059095] Done
+[2059095] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2059095] 	- arguments: cc, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cc
+[2059194] Done
+[2059195] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2059195] 	- arguments: cxx, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cxx
+[2059195] Done
+[2059195] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2059195] 	- arguments: cxx, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cxx
+[2059284] Done
+[2059284] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2059284] 	- arguments: c++, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.c++
+[2059284] Done
+[2059284] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2059284] 	- arguments: c++, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.c++
+[2059411] Done
+[2059411] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2059411] 	- arguments: cp, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cp
+[2059411] Done
+[2059411] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2059411] 	- arguments: cp, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cp
+[2059525] Done
+[2059525] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2059525] 	- arguments: cpp, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cpp
+[2059525] Done
+[2059525] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2059525] 	- arguments: cpp, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C++ Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,2, ProgId=QtProject.QtCreator.cpp
+[2059577] Done
+[2059578] backup qt.tools.qtcreator_gui operation: RegisterFileType
+[2059578] 	- arguments: c, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,1, ProgId=QtProject.QtCreator.c
+[2059578] Done
+[2059578] perform qt.tools.qtcreator_gui operation: RegisterFileType
+[2059578] 	- arguments: c, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe -client "%1", C Source file, text/plain, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\\Tools\QtCreator\bin\qtcreator.exe,1, ProgId=QtProject.QtCreator.c
+[2059663] Done
+[2059666] Instalando componente Python Software Foundation License Version 2
+[2059672] backup qt.license.python operation: License
+[2059672] 	- arguments:
+[2059672] Done
+[2059673] perform qt.license.python operation: License
+[2059673] 	- arguments:
+[2059674] Done
+[2059683] Instalando componente MICROSOFT SOFTWARE LICENSE SDK FOR WINDOWS 10
+[2059686] backup qt.license.win10sdk operation: License
+[2059686] 	- arguments:
+[2059686] Done
+[2059686] perform qt.license.win10sdk operation: License
+[2059686] 	- arguments:
+[2059722] Done
+[2059726] Instalando componente Debugging Tools for Windows
+[2059727] "Execute" as admin: true
+[2059727] backup qt.tools.windows_kits_debuggers operation: Execute
+[2059727] 	- arguments: {0,3010,1638,1618,5100}, msiexec, /i, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\vcredist\X64 Debuggers And Tools-x64_en-us.msi, /norestart, /q
+[2059727] Done
+[2059728] perform qt.tools.windows_kits_debuggers operation: Execute
+[2059728] 	- arguments: {0,3010,1638,1618,5100}, msiexec, /i, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\vcredist\X64 Debuggers And Tools-x64_en-us.msi, /norestart, /q
+[2060286] msiexec" started, arguments: "/i D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\vcredist\\X64 Debuggers And Tools-x64_en-us.msi /norestart /q
+[2229129] Done
+[2229131] "Execute" as admin: true
+[2229131] backup qt.tools.windows_kits_debuggers operation: Execute
+[2229131] 	- arguments: {0,3010,1638,1618,5100}, msiexec, /i, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\vcredist\x86 Debuggers And Tools-x86_en-us.msi, /norestart, /q
+[2229131] Done
+[2229132] perform qt.tools.windows_kits_debuggers operation: Execute
+[2229132] 	- arguments: {0,3010,1638,1618,5100}, msiexec, /i, D:\Desktop\SoftwareProjects\GAME_SnakeLadder\enc_Qt\vcredist\x86 Debuggers And Tools-x86_en-us.msi, /norestart, /q
+[2229153] msiexec" started, arguments: "/i D:\\Desktop\\SoftwareProjects\\GAME_SnakeLadder\\enc_Qt\\vcredist\\x86 Debuggers And Tools-x86_en-us.msi /norestart /q
+[2316488] Done
+[2316493] Instalando componente Qt Telemetry plugin
+[2316497] backup qt.tools.qtcreator_gui.telemetry operation: GlobalConfig
+[2316497] 	- arguments: QtProject, UserFeedback.QtCreator, UserFeedback/StatisticsCollectionMode, DetailedUsageStatistics
+[2316497] Done
+[2316500] perform qt.tools.qtcreator_gui.telemetry operation: GlobalConfig
+[2316500] 	- arguments: QtProject, UserFeedback.QtCreator, UserFeedback/StatisticsCollectionMode, DetailedUsageStatistics
+[2316923] Done
+[2316931] Instalando componente Qt Multimedia for MinGW 13.1.0 64-bit
+[2316936] backup qt.qt6.680.addons.qtmultimedia.win64_mingw operation: QtPatch
+[2316936] 	- arguments: windows, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64, QmakeOutputInstallerKey=qt.qt6.680.win64_mingw_qmakeoutput, qt5-no-bin-patch
+[2316936] Done
+[2316940] perform qt.qt6.680.addons.qtmultimedia.win64_mingw operation: QtPatch
+[2316940] 	- arguments: windows, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64, QmakeOutputInstallerKey=qt.qt6.680.win64_mingw_qmakeoutput, qt5-no-bin-patch
+[2317632] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6SpatialAudio.pc'
+[2317632] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6MultimediaWidgets.pc'
+[2317632] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Multimedia.pc'
+[2317653] Done
+[2317656] Instalando componente Qt Charts for MinGW 13.1.0 64-bit
+[2317657] backup qt.qt6.680.addons.qtcharts.win64_mingw operation: QtPatch
+[2317657] 	- arguments: windows, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64, QmakeOutputInstallerKey=qt.qt6.680.win64_mingw_qmakeoutput, qt5-no-bin-patch
+[2317657] Done
+[2317658] perform qt.qt6.680.addons.qtcharts.win64_mingw operation: QtPatch
+[2317658] 	- arguments: windows, D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64, QmakeOutputInstallerKey=qt.qt6.680.win64_mingw_qmakeoutput, qt5-no-bin-patch
+[2317982] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6ChartsQml.pc'
+[2317982] QtPatchOperation::getFilteredContent match: 'D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/6.8.0/mingw_64/lib/pkgconfig/Qt6Charts.pc'
+[2318065] Done
+[2318073] Got a replacement installer base binary: "D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/installerbase.exe"
+[2318214] Writing maintenance tool: "D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/MaintenanceTool.exe.new"
+[2318215] Escribiendo la herramienta de mantenimiento.
+[2325212] Wrote permissions for maintenance tool.
+[2325219] Wrote the binary with the new replacement.
+[2325220] Removed installer base binary "D:/Desktop/SoftwareProjects/GAME_SnakeLadder/enc_Qt/installerbase.exe" after updating the maintenance tool.
+[2329440] Maintenance tool hard restart: false.
+[2329583] Instalación completada.

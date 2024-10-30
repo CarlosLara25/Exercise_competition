@@ -12,10 +12,13 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import LOGIC 
 import time
 
+#Position on board_________________________
 #values          [ 0,   1,   2,   3,   4,   5,   6,   7,   8,   9,  10,  11,  12,  13,  14,  15,  16,  17,  18,  19,  20,  21,  22,  23,  24,  25,  26,  27,  28,  29,  30,  31,  32,  33,  34,  35,  36,  37,  38,  39,  40,  41,  42,  43,  44,  45,  46,  47,  48,  49,  50,  51,  52,  53,  54,  55,  56,  57,  58,  59,  60,  61,  62,  63,  64,  65,  66]      ]
 Positions_Left = [95,  95,  95,  95,  95,  95,  95,  95, 175, 245, 315, 385, 455, 525, 595, 665, 735, 805, 895, 895, 895, 895, 895, 895, 895, 895, 805, 735, 665, 595, 525, 455, 385, 315, 230, 230, 230, 230, 230, 230, 230, 315, 385, 455, 525, 595, 665, 745, 750, 750, 750, 750, 670, 600, 530, 460, 390, 370, 370, 370, 460, 515, 575, 635, 670, 605, 530]
 Positions_Up   =[725, 655, 585, 515, 445, 375, 305, 220, 220, 220, 220, 220, 220, 220, 220, 220, 220, 220, 220, 295, 365, 440, 510, 580, 650, 730, 730, 730, 730, 730, 730, 730, 730, 730, 730, 648, 586, 529, 472, 415, 353, 348, 348, 348, 348, 348, 348, 348, 410, 470, 530, 610, 635, 635, 635, 635, 635, 545, 455, 420, 440, 440, 440, 440, 510, 510, 510]
+#---------------------
 
+# Chain for textng in html_____________________
 cadena_inicial = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -26,10 +29,7 @@ cadena_inicial = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://ww
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">" 
 
 cadena_final = "</span></p></body></html>"
-
-
-
-
+#-----------------------------
 
 class Ui_Dialog(object):
     def setupUi(self, Dialog):
